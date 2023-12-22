@@ -2,8 +2,6 @@
 
 ## 1. App Deployment
 
-## Steps to run Code
-
 - Clone the repository
 ```
 git clone https://github.com/MrFahad/ReST.git
@@ -20,14 +18,13 @@ source ReST/bin/activate
 
 ## For Windows Users
 python -m venv ReST
-cd ReST
-cd Scripts
 activate
 ```
-RUN:
+## Steps to run Code:
 ```
-1  - python rest.py     
-2 - streamlit run rest.py
-
+python rest.py
+```
+``` 
+streamlit run rest.py
 ```
 Enjoy the app in localhost:8505
