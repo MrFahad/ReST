@@ -1,0 +1,18 @@
+version: "4.1"
+
+services:
+  hub-docker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: hub-docker
+    container_name: hub-docker
+    ports:
+      - "85:8505"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
