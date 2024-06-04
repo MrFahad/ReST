@@ -1,4 +1,4 @@
-# ReST: Motion-Vector Augmented Recognition, Segmentation and Tracking in Dynamic Environment
+# ReST: Recognition, Segmentation and Tracking in Dynamic Environment
 
 ## 1. App Deployment
 
