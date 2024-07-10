@@ -1,8 +1,8 @@
-# [MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking](https://github.com/MrFahad/MV-Soccer/) <br> <a><img src="cvpr.png" width="300"></a>
+# [MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking](https://github.com/MrFahad/MV-Soccer/) <a><img src="cvpr.png" width="300" align="right"></a> <br>
 
 > MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking  
-> [Fahad Majeed](https://www.linkedin.com/in/fahad-majeed/),  [Google Scholar](https://tinyurl.com/38jbwxvx)  
-> CVPR 2024  <br>
+> [Fahad Majeed](https://www.linkedin.com/in/fahad-majeed/),  [Google Scholar](https://tinyurl.com/38jbwxvx), [Paper](https://tinyurl.com/5cyschua)  
+
 <a><img src="1.png" width="1000"></a> <br>
 
 ### Abstract:
@@ -14,17 +14,22 @@ available datasets and a private dataset, SoccerPro, which we created. The reaso
 To validate the effectiveness of our approach, we conducted extensive experiments and attained 97% accuracy for the DFL - Bundesliga Data Shootout, 98% on the SoccerNet-Tracking dataset, 
 and an impressive 99% on the SoccerPro (our) dataset. <br>
 
-<a><img src="3.gif" width="1000"></a> <a><img src="2.gif" width="1000"></a> <br>
+### Motion Vectors - (Intuition behind):
+> Static vs. Dynamic Scenarios.
 
-## About
+<a><img src="3.gif" width="1000"></a> <br>
+> Final Output.
+<a><img src="2.gif" width="1000"></a> <br>
+
+### About
 
 Fahad Majeed, PhD from HBKU, Qatar, develops this software. The motion vector extraction component is sourced from Lukas Bommes' repository, [MV-Extractor](https://github.com/LukasBommes/mv-extractor) 
 
-#### License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-#### Citation
+### Citation
 If you find our work interesting, please cite below:
 
 ```
