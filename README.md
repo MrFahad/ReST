@@ -1,4 +1,4 @@
-# ReST: Recognition, Segmentation and Tracking in Dynamic Environment
+# ReST: High-Precision Soccer Player Tracking via Motion Vector Segmentation
 
 ## 1. App Deployment
 
@@ -28,3 +28,13 @@ python rest.py
 streamlit run rest.py
 ```
 Enjoy the app in localhost:8505
+
+
+## License
+
+Copyright (C) 2026 Fahad Majeed.
+
+This project is licensed under the GNU General Public License v3.0.
+
+You may copy, distribute and modify this software under the terms of the GNU GPL v3.
+For full details, see the [LICENSE](./LICENSE) file or visit: https://www.gnu.org/licenses/gpl-3.0.en.html
