@@ -70,4 +70,12 @@ If you find [GameFlow](https://github.com/MrFahad/GameFlow.git) is useful in you
   year={2024}
 }
 
-
+@inproceedings{majeed2025rest,
+  title={ReST: High-Precision Soccer Player Tracking via Motion Vector Segmentation},
+  author={Majeed, Fahad and Al Thelaya, Khaled Ahmed Lutf and Gilal, Nauman Ullah and Swart-Arries, Kamilla and Agus, Marco and Schneider, Jens},
+  booktitle={Proceedings of the International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications},
+  volume={2},
+  pages={138--149},
+  year={2025},
+  organization={Science and Technology Publications, Lda}
+}
